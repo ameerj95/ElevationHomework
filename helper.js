@@ -1,3 +1,3 @@
 const koo = function(){
-    console.log("Kakawww")
+    console.log("Kakawww :D")
 }
