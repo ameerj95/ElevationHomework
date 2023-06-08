@@ -1,3 +1,3 @@
 const moo = function(){
-    console.log("Moo")
+    console.log("Moo :)! ^_^")
 }
